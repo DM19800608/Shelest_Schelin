@@ -45,3 +45,8 @@
 # "ГЕНЕТИЧЕСКИЕ РАБЫ" будут мстить! Щелин: ЭТОГО Байден Зеленскому не простит! Поражение Израиля.
 23 ноября 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZE1ndZsFUjmBnm5Mhzq09R0A1wohnDmzBy) 01:01:13
 ![image](https://github.com/user-attachments/assets/91a4775a-b4a8-4081-9779-b710f126ac28)
+
+# Период ВОЙН только начинается! Цена и ценность Украины. Щелин: крушение иллюзий и ошибки Залужного.
+28 декабря 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZi1ndZUDvEx5oMnBk54V0SaLB7PBAudw77) 57:25
+![image](https://github.com/user-attachments/assets/81aef1ec-129d-41c9-b6bd-f5132005a890)
+
