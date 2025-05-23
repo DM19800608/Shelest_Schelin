@@ -1,0 +1,232 @@
+import tkinter as tk
+from tkinter import filedialog, simpledialog, messagebox
+import networkx as nx
+import matplotlib.pyplot as plt
+import pymorphy3
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import urllib.request
+from sklearn.cluster import KMeans
+import numpy as np
+
+# Скачиваем необходимые ресурсы NLTK
+nltk.download('punkt')
+nltk.download('stopwords')
+
+# Инициализация анализатора морфологии
+morph = pymorphy3.MorphAnalyzer()
+
+# Расширенный список стоп-слов (местоимения, предлоги, частицы и стандартные стоп-слова)
+EXTENDED_STOPWORDS = set(stopwords.words('russian')).union({
+    # Местоимения
+    'я', 'ты', 'он', 'она', 'оно', 'мы', 'вы', 'они', 'то', 'это', 'эти', 'те',
+    'мой', 'твой', 'его', 'её', 'наш', 'ваш', 'их', 'свой', 'сам', 'сама', 'само', 'сами',
+    'себя', 'кто', 'что', 'какой', 'который', 'чей', 'каков', 'сколько',
+    'никто', 'ничто', 'некого', 'нечего', 'ничей', 'никакой',
+    'кто-то', 'что-то', 'кое-кто', 'кое-что', 'кто-нибудь', 'что-нибудь', 'кто-либо', 'что-либо',
+    
+    # Предлоги
+    'в', 'на', 'под', 'над', 'за', 'перед', 'между', 'среди',
+    'у', 'о', 'об', 'по', 'к', 'от', 'из', 'до', 'без',
+    'для', 'ради', 'через', 'сквозь', 'вокруг', 'около',
+    'близ', 'вдоль', 'внутри', 'вне', 'с', 'со', 'про',
+    'при', 'после', 'в течение', 'в продолжение', 'благодаря',
+    'ввиду', 'вследствие', 'наподобие', 'насчёт', 'вроде',
+    
+    # Частицы и другие служебные слова
+    'ли', 'бы', 'не', 'ни', 'же', 'ведь', 'мол', 'дескать', 'только', 'лишь', 'именно'
+})
+
+def is_noun(parsed_word):
+    """Проверяет, является ли слово существительным"""
+    if not parsed_word.tag.POS:
+        return False
+    return 'NOUN' in parsed_word.tag.POS
+
+def preprocess_text(text):
+    """Предварительная обработка текста с расширенным списком стоп-слов и фильтрацией существительных"""
+    tokens = word_tokenize(text.lower(), language='russian')
+    nouns = []
+    for token in tokens:
+        if token.isalpha():
+            parsed = morph.parse(token)[0]
+            if is_noun(parsed) and parsed.normal_form not in EXTENDED_STOPWORDS:
+                nouns.append(parsed.normal_form)
+    return nouns
+
+def build_co_occurrence_matrix(words, window_size=4):
+    """Построение матрицы совместной встречаемости"""
+    co_occurrence = {}
+    for i in range(len(words)):
+        for j in range(i+1, min(i+window_size, len(words))):
+            word1, word2 = words[i], words[j]
+            if word1 != word2:
+                pair = tuple(sorted((word1, word2)))
+                co_occurrence[pair] = co_occurrence.get(pair, 0) + 1
+    return co_occurrence
+
+def create_concept_map(text, num_nodes, top_centrality_words):
+    """Создание и визуализация карты понятий с кластеризацией"""
+    words = preprocess_text(text)
+    if not words:
+        messagebox.showerror("Ошибка", "Не удалось обработать текст или не найдено существительных")
+        return
+    
+    co_occurrence = build_co_occurrence_matrix(words)
+    G = nx.Graph()
+    for (word1, word2), weight in co_occurrence.items():
+        G.add_edge(word1, word2, weight=weight)
+    
+    if not G.nodes():
+        messagebox.showerror("Ошибка", "Не найдено значимых связей между существительными")
+        return
+    
+    # Вычисление центральности
+    centrality = nx.betweenness_centrality(G, weight='weight')
+    sorted_centrality = sorted(centrality.items(), key=lambda x: x[1], reverse=True)
+    top_words = [word for word, _ in sorted_centrality[:num_nodes]]
+    subgraph = G.subgraph(top_words)
+    
+    # Кластеризация узлов
+    pos = nx.spring_layout(subgraph, k=0.5)
+    positions = np.array([pos[node] for node in subgraph.nodes()])
+    
+    # Автоматическое определение количества кластеров (3-5)
+    n_clusters = min(5, max(3, len(subgraph.nodes()) // 5))
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+    clusters = kmeans.fit_predict(positions)
+    
+    # Цвета для кластеров
+    cluster_colors = plt.cm.tab10(clusters / n_clusters)
+    
+    plt.figure(figsize=(14, 12))
+    
+    # Рисуем узлы с цветами по кластерам
+    nx.draw_networkx_nodes(
+        subgraph, pos, node_size=[centrality[node] * 15000 for node in subgraph.nodes()],
+        node_color=cluster_colors, alpha=0.8
+    )
+    
+    # Рисуем ребра
+    edges = subgraph.edges(data=True)
+    edge_widths = [data['weight'] * 0.7 for (_, _, data) in edges]
+    nx.draw_networkx_edges(
+        subgraph, pos, width=edge_widths,
+        edge_color='gray', alpha=0.5
+    )
+    
+    # Подписи узлов
+    nx.draw_networkx_labels(
+        subgraph, pos, font_size=10,
+        font_family='Arial', font_weight='bold'
+    )
+    
+    # Легенда с топом по центральности
+    centrality_text = "\n".join([
+        f"{i+1}. {word}: {score:.4f}" 
+        for i, (word, score) in enumerate(sorted_centrality[:top_centrality_words])
+    ])
+    
+    plt.text(
+        1.02, 0.5, 
+        f"Топ-{top_centrality_words} по центральности:\n{centrality_text}", 
+        transform=plt.gca().transAxes, 
+        bbox=dict(facecolor='white', alpha=0.7),
+        ha='left', va='center'
+    )
+    
+    # Информация о кластерах
+    cluster_info = "\n".join([
+        f"Кластер {i+1}: {', '.join([node for node, cl in zip(subgraph.nodes(), clusters) if cl == i][:5])}{'...' if sum(clusters == i) > 5 else ''}"
+        for i in range(n_clusters)
+    ])
+    
+    plt.text(
+        1.02, 0.2,
+        f"Обнаружено кластеров: {n_clusters}\n{cluster_info}",
+        transform=plt.gca().transAxes,
+        bbox=dict(facecolor='white', alpha=0.5),
+        ha='left', va='center',
+        fontsize=9
+    )
+    
+    plt.title("Карта понятий (только существительные)\n(цвета = кластеры, размер = центральность, толщина = сила связи)")
+    plt.axis('off')
+    plt.tight_layout()
+    plt.subplots_adjust(right=0.7)
+    plt.show()
+
+def load_from_url(url):
+    """Загрузка текста по URL"""
+    try:
+        with urllib.request.urlopen(url) as response:
+            return response.read().decode('utf-8')
+    except Exception as e:
+        messagebox.showerror("Ошибка", f"Не удалось загрузить текст: {str(e)}")
+        return None
+
+def load_from_file():
+    """Загрузка текста из файла"""
+    filepath = filedialog.askopenfilename(
+        title="Выберите текстовый файл",
+        filetypes=[("Текстовые файлы", "*.txt"), ("Все файлы", "*.*")]
+    )
+    if filepath:
+        try:
+            with open(filepath, 'r', encoding='utf-8') as file:
+                return file.read()
+        except Exception as e:
+            messagebox.showerror("Ошибка", f"Ошибка чтения файла: {str(e)}")
+    return None
+
+def get_text_source():
+    """Диалог выбора источника текста"""
+    root = tk.Tk()
+    root.withdraw()
+    
+    choice = messagebox.askquestion(
+        "Источник текста",
+        "Хотите загрузить текст из файла? (Нет - ввести URL)",
+        icon='question'
+    )
+    
+    if choice == 'yes':
+        return load_from_file()
+    else:
+        url = simpledialog.askstring(
+            "Введите URL",
+            "Введите URL текстового файла:",
+            parent=root
+        )
+        return load_from_url(url) if url else None
+
+def main():
+    """Основная функция"""
+    text = get_text_source()
+    if not text:
+        return
+    
+    root = tk.Tk()
+    root.withdraw()
+    
+    num_nodes = simpledialog.askinteger(
+        "Количество узлов", 
+        "Введите количество основных понятий для отображения (10-50):",
+        parent=root, minvalue=10, maxvalue=50, initialvalue=25
+    )
+    if not num_nodes:
+        return
+    
+    top_centrality_words = simpledialog.askinteger(
+        "Топ центральности", 
+        "Сколько слов вывести по индексу центральности (5-20):",
+        parent=root, minvalue=5, maxvalue=20, initialvalue=10
+    )
+    if not top_centrality_words:
+        return
+    
+    create_concept_map(text, num_nodes, top_centrality_words)
+
+if __name__ == "__main__":
+    main()
