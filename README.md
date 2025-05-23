@@ -5,3 +5,12 @@
 # Бои БЕЗ ПРАВИЛ за ПРАВИЛА! - Щелин. Воинственные трансгендеры. Лавра заказ глобалистов? Доллар всё.
 01 апреля 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZkDndZYjXdNzc0DJXGF95Fw0CFYSQIlYE7) 50:35
 ![image](https://github.com/user-attachments/assets/8a33c03d-a5fb-4afa-883a-48f9136e1ce0)
+
+# США разъедает изнутри! Щелин: это БОЛЬШАЯ ДРАКА за место за столом "Новой Ялты". А на столе будет...
+04 мая 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZRDndZO5pwGlmqeabyW76SzFisvyDkSe3k) 54:48
+![image](https://github.com/user-attachments/assets/b3555fe8-08a6-4917-893d-7b6c0683bc2c)
+
+# Решающая схватка кланов в США! Щелин: раздел мира уже не остановить. Мода на мир и язык войны.
+21 июня 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZDDndZSfEnrj4yDozoBkAK1T3i3YM2rMO7) 57:44
+![image](https://github.com/user-attachments/assets/b7ed72c2-c8fc-442d-a0ca-df1795f7b3cb)
+
