@@ -50,3 +50,38 @@
 28 декабря 2023 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZi1ndZUDvEx5oMnBk54V0SaLB7PBAudw77) 57:25
 ![image](https://github.com/user-attachments/assets/81aef1ec-129d-41c9-b6bd-f5132005a890)
 
+# Путь СМЕРТИ: Китай отмахнулся от Украины. Щелин: Давос застрял в ПРОШЛОМ! Замена населения Америки.
+19 января 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZHendZFFv11SwAUaRsjsIKx0cdRR3nA74y) 57:18
+![image](https://github.com/user-attachments/assets/b3f1e61f-8690-4c86-85d9-f4f9c2c38f56)
+
+# Предел Путина. Игра Такера. Щелин: джентльменское соглашение нереально! Ловушка возможностей войны.
+10 февраля 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZBendZff5vmww5F3hptIJY9N0YWSrGaCOX) 01:01:22
+![image](https://github.com/user-attachments/assets/221f1a18-ee75-4eeb-aba4-2076ab5c1d42)
+
+# ГЛАВНЫЙ ПРИЗ: раздел ГЕРМАНИИ! - Щелин. Руина в Украине. Гарантии Путину. Чужой сад Папы Римского.
+14 марта 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ1endZ673LXuxxUDmkNwSvwhbxzXD3xVTk) 01:10:49
+![image](https://github.com/user-attachments/assets/12d0d949-bfc0-4e3e-8dcc-8bff9dbdfda4)
+
+# Биодроны и СМЕРТЬ правил. Принцип хуситов: власть США для трусов. Щелин: Украина станет Лампедузой.
+03 апреля 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZvendZRv46c4kYe8uvTUdKOxzLNRDvWK9X) 01:17:44
+![image](https://github.com/user-attachments/assets/97626cf1-d1f3-4acb-b3ba-0bfb06734287)
+
+# Анестезия к ЛЕТНЕМУ КАТАРСИСУ. Эпоха игр с нулевой суммой: СОЛЬ армии и ИЗНАНКА демократии - Щелин.
+24 апреля 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ7nndZn20lzeMqBHfE7Bk6jlz4fSmwuzLk) 01:21:59
+![image](https://github.com/user-attachments/assets/cdcea462-5827-4554-b931-8a3c4c1523dc)
+
+# ДЫХАНИЕ МАЯ: цена станет НЕПОДЪЕМНОЙ! - Щелин. Прайс Си и треуголка Макрона. Искушение нацизмом.
+10 мая 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZznndZoI81ifk4PpVgoW9TteY44jv22oRk) 01:12:02
+
+# ДЫХАНИЕ МАЯ: цена станет НЕПОДЪЕМНОЙ! - Щелин. Прайс Си и треуголка Макрона. Искушение нацизмом.
+10 мая 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZznndZoI81ifk4PpVgoW9TteY44jv22oRk) 01:12:02
+![image](https://github.com/user-attachments/assets/07db092d-43a9-4723-a772-a2214c39eade)
+
+# Рабы НАДСТРОЙКИ: США в ДВОЙНОЙ петле! Черная метка Украины. Щелин: эра отмирания СЛАБЫХ государств.
+29 мая 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZYnndZ5jFHUrL53c5x60O2ttlin56wSRu7) 01:07:38
+![image](https://github.com/user-attachments/assets/09936016-736f-4309-bce9-47457a8b1599)
+
+
+
+
+
