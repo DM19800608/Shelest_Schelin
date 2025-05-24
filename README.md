@@ -126,3 +126,43 @@
 # Не дошло через голову, 2025-й постучит через печень - Щелин. План свержения Путина НИКТО НЕ ОТМЕНЯЛ.
 24 декабря 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZVPndZmYsRpxHAOs00KdCAOsdOVbLzl32k) 01:19:21
 ![image](https://github.com/user-attachments/assets/db9e80bf-12ca-4705-84a3-2c32ea7a062f)
+
+# Трамп-РАЗРУШИТЕЛЬ против Британской Короны! - Щелин. Ключи от мира в Константинополе. Беда Украины.
+11 января 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZpPndZ6FBQ75A9OM44drh692A8oXk6JajV) 01:08:52
+![image](https://github.com/user-attachments/assets/caf2fc1d-f6cf-43cc-bcb0-0d5e244ceccb)
+
+# ТРАМП: МИССИЯ МЕССИИ. Шторм на ТРИ МЕСЯЦА! Крах украинского мифа. Сражение масонов в Европе - Щелин.
+27 января 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZmPndZjsANQdd5r6RDhMz0JGDzyuv8kRxV) 01:13:11
+![image](https://github.com/user-attachments/assets/d23e0426-959e-4c67-8eaf-ce1e2c36ba5e)
+
+# Чёрная Русь и Уроки Триединства. Щелин: мы себя НЕ ЗНАЕМ! Сила СЛОМА: драма Украины и ХАЛЯВА Трампа.
+11 февраля 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZWPndZPqiJRnfOdwLbpRsNmOcSGytYmYkV) 01:07:01
+![image](https://github.com/user-attachments/assets/71526c06-5155-44d5-b2e1-7ffc9573488a)
+
+# Матрёшка КОЗЛОВ ОТПУЩЕНИЯ. Трамп презирает Зеленского. Война проиграна: США спасают лицо! - Щелин.
+22 февраля 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ6PndZRg9qTSz00EjlArsjmgHdkFcJkb7y) 01:14:06
+![image](https://github.com/user-attachments/assets/83e251cc-69cd-414c-abea-93315daa56da)
+
+# КРЕПОСТЬ СРЕДИ ОГНЯ: час расплаты. Щелин: УКРАИНЦЫ ХОТЯТ НЕ МИРА. Зеленский чует кожей, это конец!
+06 марта 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZGPndZFi7VzVgLGU7uBdrl3j2B8Qx8MQ1k) 01:04:46
+![image](https://github.com/user-attachments/assets/b319f7d4-08fe-406e-9ea2-f397ec795a81)
+
+# Кондуктор не спешит, кондуктор понимает... Щелин: самая СЛАБАЯ позиция у Трампа! Исламский Рейх ЕС.
+17 марта 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ0CndZC4LzSB2cY8bup3xi905yqQvDKqD7) 01:03:54
+![image](https://github.com/user-attachments/assets/26527b97-a8fb-4ea5-a77d-06a538e40340)
+
+# СУДНЫЙ ДЕНЬ УКРАИНЫ. Злой Трамп. Время для Зеленского. Подкидные карты Путина - Щелин & Бондаренко.
+31 марта 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZLCndZwraFdyrx6WzogrnkTHjkWFx8X00V) 01:31:07
+![image](https://github.com/user-attachments/assets/11a124db-36da-4e89-b5bd-559b8228dc15)
+
+# Ни любви, ни тоски, ни жалости: КТО НА САМОМ ДЕЛЕ МЕШАЕТ МИРУ! - Щелин. Трамп НАГИБАЕТ и ОХМУРЯЕТ.
+09 апреля 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ4cddZOTWyhYiWSR4pA3LannXP55CJym3y) 01:02:54
+![image](https://github.com/user-attachments/assets/ae52898c-e82c-4628-875c-f2a21e049a13)
+
+# Похороны плана Трампа в Лондоне. Щелин: если Украина не АНТИРОССИЯ, то зачем она нужна. Папа умер.
+21 апреля 2025 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZLa0qZgg1SH5NOcf0SzxMmFx0XnL6b7sjy) 59:14
+![image](https://github.com/user-attachments/assets/6a2bb2f4-8881-49e5-8862-80932d3a2e74)
+
+# Вирус ненависти и ФУНДАМЕНТАЛЬНЫЙ РАЗРЫВ МИФОВ! Срыв Стамбула-2: Путин на стрелки не ездит.
+12 мая 2025 г. [Аудиоверсия](https://www.youtube.com/watch?v=O9d7iNISyAg) 01:03:11
+![image](https://github.com/user-attachments/assets/55c5dbf4-6002-4c46-9bd8-568fe6eb9cab)
