@@ -76,9 +76,51 @@
 
 # Рабы НАДСТРОЙКИ: США в ДВОЙНОЙ петле! Черная метка Украины. Щелин: эра отмирания СЛАБЫХ государств.
 29 мая 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZYnndZ5jFHUrL53c5x60O2ttlin56wSRu7) 01:07:38
-![image](https://github.com/user-attachments/assets/09936016-736f-4309-bce9-47457a8b1599)
 
+# Год ПЕРЕЛОМА: пути назад НЕТ! - Щелин. Второй саммит и НОВЫЙ ультиматум. Дрейф Китая. Раздел в США.
+15 июня 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ2nndZV6GGa1imJ9LHWDN1OgNQdVyj47dy) 01:04:53
+![image](https://github.com/user-attachments/assets/e4e50349-1b92-425d-9864-9daeff8d2cde)
 
+# ДЕБАТЫ дерганного ВЕКА: соблазн Трампа и время Байдена. Щелин: РФ в КРОВАВОМ плюсе. Мода на ислам.
+26 июня 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZPTndZoakqTxQ9wCJPVTP0C8gwH8LW3tbk) 01:14:29
+![image](https://github.com/user-attachments/assets/dfb9c35a-1b49-49d9-a65b-41999e2827cd)
 
+# Украина ПОВЫШАЕТ СТАВКИ: расчет на новый Хасавюрт ПРОВАЛИЛСЯ - Щелин. Тупик Трампа и танец Камалы.
+07 августа 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZqTndZHbiYnM05kJBP5moF6yBmr4zWk8Lk) 01:09:31
+![image](https://github.com/user-attachments/assets/313dde88-4038-4577-bda7-2f033e8808a8)
 
+# Аффект КУРСКА. Щелин: условия станут ЖЕСТЧЕ! Побелка Камалы. Пик Руины и рэкет Зелёного патриарха.
+19 августа 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ3TndZNpH01meQpHBU44mGTzhYwBPzgMuk) 01:02:30
+![image](https://github.com/user-attachments/assets/6a7fddf5-9ebe-4a87-8697-e30378550bff)
 
+# Мечта о ФИОЛЕТОВОМ ЛУЧЕ. Природа ВЛАСТИ в Украине: крючок легальности и легитимность РУИНЫ - Щелин.
+04 сентября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZrTndZnyxv0kzj6yh6F3X53CMuW5oeovhV) 01:05:30
+![image](https://github.com/user-attachments/assets/13be5511-4e23-49a6-99a5-0e9f9ea99ad8)
+
+# Гвоздь в КРЫШКУ ГРОБА! Треск сильнее: все обрушится ВНЕЗАПНО! - Щелин. Недоплан Зе. Одессу ломают.
+26 сентября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZkgndZ9IHal1LSfXHHu16diwSFIQBq3LEV) 01:13:42
+![image](https://github.com/user-attachments/assets/03826893-f957-44a8-88b0-febc52ff2693)
+
+# План УБИТЬ РОССИЮ УКРАИНОЙ: лапша на ушах - дело техники! Щелин: заморозка на ДНЕ ВОЗМОЖНОСТЕЙ.
+10 октября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZRgndZXNEs73XjLY0xsrpsK1oOjXucn8H7) 01:20:45
+![image](https://github.com/user-attachments/assets/078f90a8-56af-44f2-ac97-e786ab88ea56)
+
+# От Украины УСТАЛИ! - Щелин. Путин снес мирные планы. БРИКС: кошмар Гуттериша. ВЫРОЖДЕНИЕ демократии.
+25 октября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZugndZ5z1zVRh1H4R2VydJ3H3he78OoRSX) 01:06:24
+![image](https://github.com/user-attachments/assets/b616a854-8cd7-42d6-9bf2-8bd7f414f5e0)
+
+# ИГРЫ В БЛЕФ! Сделка Трампа: на ЭТО Путин никогда НЕ ПОЙДЁТ! Крайний Зеленский. ЗУНР в НАТО - Щелин.
+12 ноября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ9gndZSQd6VMwFLzYo5haJo78MK70QkXX0) 01:15:38
+![image](https://github.com/user-attachments/assets/31aa10b1-10c3-4af1-8d2e-15fff971c998)
+
+# Тайные угрозы. Щелин: МИРА через силу НЕ БУДЕТ! Хутор душит Город: Украина выпрашивает ядерный удар.
+30 ноября 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZdgndZzJ6eTXIwRUjjs8olxUqRtz7RmsHV) 01:11:59
+![image](https://github.com/user-attachments/assets/311d6dc1-5956-4b05-9d05-a85f294d653c)
+
+# МЁРТВОЕ НУТРО ВЛАСТИ: ЧАС РАСПЛАТЫ НАСТАЛ! Щелин: Трамп РАЗРУШИТЕЛЬ! Драка ЛЕВЫХ и ПРАВЫХ масонов.
+10 декабря 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZAgndZQLxGTYyIDV7Pp28zwGrDSjjoJ36X) 01:07:38
+![image](https://github.com/user-attachments/assets/4c70b601-abd0-4768-a24c-c009a8079f75)
+
+# Не дошло через голову, 2025-й постучит через печень - Щелин. План свержения Путина НИКТО НЕ ОТМЕНЯЛ.
+24 декабря 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZVPndZmYsRpxHAOs00KdCAOsdOVbLzl32k) 01:19:21
+![image](https://github.com/user-attachments/assets/db9e80bf-12ca-4705-84a3-2c32ea7a062f)
