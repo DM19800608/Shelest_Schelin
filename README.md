@@ -76,6 +76,8 @@
 
 # Рабы НАДСТРОЙКИ: США в ДВОЙНОЙ петле! Черная метка Украины. Щелин: эра отмирания СЛАБЫХ государств.
 29 мая 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZYnndZ5jFHUrL53c5x60O2ttlin56wSRu7) 01:07:38
+![image](https://github.com/user-attachments/assets/9dde406a-5910-4037-96cd-46bebdda4b05)
+
 
 # Год ПЕРЕЛОМА: пути назад НЕТ! - Щелин. Второй саммит и НОВЫЙ ультиматум. Дрейф Китая. Раздел в США.
 15 июня 2024 г. [Аудиоверсия](https://e.pcloud.link/publink/show?code=XZ2nndZV6GGa1imJ9LHWDN1OgNQdVyj47dy) 01:04:53
